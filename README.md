@@ -2,8 +2,9 @@
 Dados de poluentes de Olivais (Portugal)
 ## Resultado
 
-![Alt text]()
-![Alt text]()
+![Alt text](https://github.com/eduardofhenty/script_machine_learning/blob/main/exemplo%20floresta%20aleatoria/indice%20de%20qualidade%20do%20ar.png?raw=true
+)
+![Alt text](https://github.com/eduardofhenty/script_machine_learning/blob/main/exemplo%20floresta%20aleatoria/indice%20de%20qualidade%20do%20ar2.png?raw=true)
 
 
 ## Requisitos
