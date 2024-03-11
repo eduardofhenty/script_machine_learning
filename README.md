@@ -1,4 +1,4 @@
-# Exemplo de como aplicação de floresta aleatória
+# Scripts de aplicação de machine learning
 
 
 
